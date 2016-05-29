@@ -2,7 +2,7 @@ TITLE: Welcome!
 URL: phil971.colinmclear.net
 SAVE_AS: index.html
 
-This is the homepage for PHIL 971 -- Seminar on issues in Kant's philosophy.
+This is the homepage for PHIL 971 -- Seminar on topics in Kant's philosophy.
 
 Specific topic TBA!
 
