@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Philosophy 232</title><link href="http://phil232.colinmclear.net/" rel="alternate"></link><link href="http://phil232.colinmclear.net/feeds/all.atom.xml" rel="self"></link><id>http://phil232.colinmclear.net/</id><updated>2016-05-29T00:00:00-04:00</updated><entry><title>Class 1</title><link href="http://phil232.colinmclear.net/class-1.html" rel="alternate"></link><published>2016-05-29T00:00:00-04:00</published><author><name>Colin McLear</name></author><id>tag:phil232.colinmclear.net,2016-05-29:class-1.html</id><summary type="html">&lt;ul&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Philosophy 971</title><link href="http://phil971.colinmclear.net/" rel="alternate"></link><link href="http://phil971.colinmclear.net/feeds/all.atom.xml" rel="self"></link><id>http://phil971.colinmclear.net/</id><updated>2016-05-29T00:00:00-04:00</updated><entry><title>Class 1</title><link href="http://phil971.colinmclear.net/class-1.html" rel="alternate"></link><published>2016-05-29T00:00:00-04:00</published><author><name>Colin McLear</name></author><id>tag:phil971.colinmclear.net,2016-05-29:class-1.html</id><summary type="html">&lt;ul&gt;
 &lt;li&gt;Class overview.&lt;a href="#fn1" class="footnoteRef" id="fnref1"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="references" class="unnumbered"&gt;References&lt;/h2&gt;
@@ -14,7 +14,7 @@
 &lt;li id="fn1"&gt;&lt;p&gt;Hello!&lt;a href="#fnref1"&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
-</summary></entry><entry><title>A test</title><link href="http://phil232.colinmclear.net/a-test.html" rel="alternate"></link><published>2016-05-28T00:00:00-04:00</published><author><name>Colin McLear</name></author><id>tag:phil232.colinmclear.net,2016-05-28:a-test.html</id><summary type="html">&lt;p&gt;This is a&amp;nbsp;test.&lt;/p&gt;
+</summary></entry><entry><title>A test</title><link href="http://phil971.colinmclear.net/a-test.html" rel="alternate"></link><published>2016-05-28T00:00:00-04:00</published><author><name>Colin McLear</name></author><id>tag:phil971.colinmclear.net,2016-05-28:a-test.html</id><summary type="html">&lt;p&gt;This is a&amp;nbsp;test.&lt;/p&gt;
 &lt;div id="refs" class="references"&gt;
 
 &lt;/div&gt;
