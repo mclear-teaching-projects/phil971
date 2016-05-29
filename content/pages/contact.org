@@ -10,7 +10,7 @@ Email: [[mailto:mclear@unl.edu][mclear@unl.edu]]
 Email is the best way to reach me. I answer emails on weekdays, usually
 within 24 hrs.
 
-Students, please check your [[{filename}/extra/syllabus.html][syllabus]] or the assignments [[phil971.colinmclear.net/assignments][online]] before emailing
+Students, please check your [[file:{filename}/extra/syllabus.html][syllabus]] or the assignments [[http://phil971.colinmclear.net/assignments][online]] before emailing
 your question. If it is covered in the syllabus, I likely won't respond. Please
 remember to include an informative subject line that summarizes the content of
 your email (e.g. “Question about Assignment 3 for PHIL101″ instead of
