@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Colin McLear'
-SITENAME = u'Philosophy 232'
-SITEURL = 'http://phil232.colinmclear.net'
+SITENAME = u'Philosophy 971'
+SITEURL = 'http://phil971.colinmclear.net'
 TIMEZONE = 'America/New_York'
 DEFAULT_LANG = u'en'
 PATH = 'content'
