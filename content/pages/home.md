@@ -6,4 +6,4 @@ This is the homepage for PHIL 971 -- Seminar on issues in Kant's philosophy.
 
 Specific topic TBA!
 
-If you'd like to take a look at the syllabus you can find it here: [HTML]({filename}/extra/syllabus.html) | [PDF]({filename}/extra/syllabus.pdf)
+If you'd like to take a look at a previous syllabus you can find it here: [HTML]({filename}/extra/syllabus.html) | [PDF]({filename}/extra/syllabus.pdf)
