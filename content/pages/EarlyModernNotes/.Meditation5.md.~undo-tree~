@@ -1,0 +1,6 @@
+"04e31180c464c44ede004201ba3be12403a3fb7c"
+[cl-struct-undo-tree [nil (#1=[nil nil ((#(" " 0 1 (fontified nil)) . -13355) (undo-tree-id0 . -1) (13354 . 13355) (#(" " 0 1 (fontified nil)) . -13274) (undo-tree-id1 . -1) (undo-tree-id2 . -1) (13273 . 13274) (#(" " 0 1 (fontified nil)) . -13195) (13194 . 13195) (#(" " 0 1 (fontified nil)) . -13117) (13116 . 13117) (13357 . 13358) (#("
+" 0 1 (fontified t)) . 13357) (13273 . 13274) (#("
+" 0 1 (fontified t)) . 13273) (13194 . 13195) (#("
+" 0 1 (fontified t)) . 13194) (13116 . 13117) (#("
+" 0 1 (fontified t)) . 13116) (t 22210 23758 0 0)) nil (22211 20180 603007 0) 0 nil]) nil nil (22211 20180 603015 0) 0 nil] #1# 168 1 nil]

@@ -1,0 +1,31 @@
+#+TITLE: Resources
+
+-----
+
+
+* Philosophy Links
+
+Some links for research, and for writing good philosophical prose.
+
+-  [[http://plato.stanford.edu][Stanford Encyclopedia of Philosophy]]
+-  [[http://www.iep.utm.edu/][Internet Encyclopedia of Philosophy]]
+-  [[http://philpapers.org][PhilPapers]]
+-  [[http://www.jimpryor.net/teaching/vocab/index.html][Philosophical Terms & Methods]]
+-  [[http://www.jimpryor.net][Jim Pryor's]] guides to [[http://www.jimpryor.net/teaching/guidelines/reading.html][reading]] and [[http://www.jimpryor.net/teaching/guidelines/writing.html][writing]] philosophy
+-  [[http://owl.english.purdue.edu/owl/][Purdue Online Writing Lab]] 
+-  [[http://writingproject.fas.harvard.edu/files/hwp/files/philosophical_writing.pdf][A Guide to Philosophical Writing]]
+
+* Academic Technology & Tools
+
+Links to tools for research and writing
+
+-  [[http://daringfireball.net/projects/markdown/][Markdown]]: Plaintext markup for easy writing
+-  [[http://johnmacfarlane.net/pandoc/index.html][Pandoc]]: File conversion
+-  [[https://www.gnu.org/software/emacs/][Emacs]]: A superb (and free) text editor and writing/research platform
+-  [[http://bibdesk.sourceforge.net][BibDesk]]: Reference manager
+-  [[http://skim-app.sourceforge.net][Skim]]: PDF reader & annotator
+-  [[http://git-scm.com][Git]]: Version control
+-  [[https://education.github.com][Github]]: Online storage and collaboration
+-  Kieran Healy's [[http://kieranhealy.org/resources/][writing resources page]]
+-  [[http://chronicle.com/blogs/profhacker/][Profhacker]]: Blog on teaching & technology
+-  [[http://programminghistorian.org][The Programming Historian]]: Tutorials for aspiring digital humanists

@@ -1,0 +1,11 @@
+#+TITLE: Class 1 
+#+DATE: May 29, 2016
+#+PANDOC_OPTIONS: nocite: [@smit2000]
+
+- Class overview.[fn:1]
+
+
+[fn:1] Hello!
+
+
+* References 
